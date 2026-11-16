@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cloud Website Demo</title>
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            background: #eaf2f8;
+            padding: 50px;
+        }
+        h1 {
+            color: #1565c0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Cloud Computing!</h1>
+    <h2>Website Provisioning and Scaling</h2>
+    <p>This website is deployed using GitHub.</p>
+    <p>Cloud deployment practical demonstration.</p>
+</body>
+</html>
